@@ -34,15 +34,28 @@ Automatic relationship was used and nothing was adjusted.
 ___
 
 ## Visualization:
+This report comprises of 4 pages:
+1. Food and Beverage Sales Dashboard
+2. Revenue by Month aand Quater
+3. Product Order
+4. Salesperson
+
+![](food_beverage.png)
 The dashboard is navigated with help of __9__ side buttons on the left the side. These buttons aid in explaining the dashboard better, shedding more light on the revenue, sales channels and the quarter where the best and worst sale were recorded.
 ___
-![](food_beverage.png)
 
+![](revenue_PnO.png)
 ## Analysis:
 -	**Drink and Food button**: These buttons filter the revenue, average total products, and the quantities ordered on every sale platform. From the analysis, the total revenue derived from the sale of Drink is __1.5M__ while for Food it is __16.37M__.
--	**Sales Channel button**: These sales channels comprise Online, Retail, and Distributor, and they show the amount of food and drink sold through these channels. From the given dataset, Retail has a Total Revenue of __8.70M__ and a Total Order of __22.3K__, making it the most utilized channel, while the Online channel has a lower Total Revenue of __3.11M__ and a Total Order of __12.0K__.
--	**The Quarter button**: This shows the progression of sale as it flows from the first quarter to the fourth quarter. From all indications, Retail sales channel has the highest turnover, increasing from __3.42M__ in the first quarter to __5.48M__ in the fourth quarter. It is interesting to note that Online revenue dropped on the fourth quarter to __1.06M__ compared to __1.09M__ in the third quarter. 
+___
 
+![](revenue_MnQ.png)
+-	**The Quarter button**: This shows the progression of sale as it flows from the first quarter to the fourth quarter. From all indications, Retail sales channel has the highest turnover, increasing from __3.42M__ in the first quarter to __5.48M__ in the fourth quarter. It is interesting to note that Online revenue dropped on the fourth quarter to __1.06M__ compared to __1.09M__ in the third quarter. 
+___
+
+![](salesperson.png)
+
+-	**Sales Channel button**: These sales channels comprise Online, Retail, and Distributor, and they show the amount of food and drink sold through these channels. From the given dataset, Retail has a Total Revenue of __8.70M__ and a Total Order of __22.3K__, making it the most utilized channel, while the Online channel has a lower Total Revenue of __3.11M__ and a Total Order of __12.0K__.
 
 You can interact with the report [here]( https://app.powerbi.com/groups/me/reports/105a94a6-e0be-4e41-9373-6aeed09d43d5/ReportSection?experience=power-bi)
 ___
