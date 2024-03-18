@@ -20,11 +20,12 @@ ___
 ## Skill/ Concept Demonstrated:
 The following power BI features were used in the visualization:
 -	Download data,
--	DAX, Quick measure,
 -	Transformation,
--	Modelling,
 -	Power query,
+-	DAX, Quick measure,
+-	Modelling,
 -	Button,
+-	Navigation,
 -	Filter.
 ___
 
@@ -39,21 +40,27 @@ This report comprises of 4 pages:
 2. Revenue by Month aand Quater
 3. Product Order
 4. Salesperson
+___
 
-![](food_beverage.png)
+## Page Navigation:
+
+To navigate the report from one page to another, use the icons located in the top right corner of each page. To enable navigation, __CTRL__ __+__ __CLICK__ on each page you wish to visit.
+___
+
+![](FoodnBeverage.png)
 The dashboard is navigated with help of __9__ side buttons on the left the side. These buttons aid in explaining the dashboard better, shedding more light on the revenue, sales channels and the quarter where the best and worst sale were recorded.
 ___
 
-![](revenue_PnO.png)
+![](Order.png)
 ## Analysis:
 -	**Drink and Food button**: These buttons filter the revenue, average total products, and the quantities ordered on every sale platform. From the analysis, the total revenue derived from the sale of Drink is __1.5M__ while for Food it is __16.37M__.
 ___
 
-![](revenue_MnQ.png)
+![](Revenue.png)
 -	**The Quarter button**: This shows the progression of sale as it flows from the first quarter to the fourth quarter. From all indications, Retail sales channel has the highest turnover, increasing from __3.42M__ in the first quarter to __5.48M__ in the fourth quarter. It is interesting to note that Online revenue dropped on the fourth quarter to __1.06M__ compared to __1.09M__ in the third quarter. 
 ___
 
-![](salesperson.png)
+![](Sales.png)
 
 -	**Sales Channel button**: These sales channels comprise Online, Retail, and Distributor, and they show the amount of food and drink sold through these channels. From the given dataset, Retail has a Total Revenue of __8.70M__ and a Total Order of __22.3K__, making it the most utilized channel, while the Online channel has a lower Total Revenue of __3.11M__ and a Total Order of __12.0K__.
 
