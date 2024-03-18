@@ -44,7 +44,7 @@ ___
 
 ## Page Navigation:
 
-To navigate the report from one page to another, use the icons located in the top right corner of each page. To enable navigation, __CTRL__ __+__ __CLICK__ on each page you wish to visit.
+To navigate the report from one page to another, use the icons located in the top right corner of each page. To enable navigation,  __CLICK__ __ON__ __EACH__ __PAGE__ you wish to visit. To move to the third page, you need to click on the home icon again, just like the last page. You must return to the home page before navigating to another page.
 ___
 
 ![](FoodnBeverage.png)
